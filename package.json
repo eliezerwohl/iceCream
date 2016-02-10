@@ -18,6 +18,7 @@
   "homepage": "https://github.com/eliezerwohl/iceCream#readme",
   "dependencies": {
     "express": "^4.13.4",
-    "express-handlebars": "^3.0.0"
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.10.2"
   }
 }
